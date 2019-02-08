@@ -14,11 +14,17 @@
 * HDMI 1.1 DTS対応
 * HDMI 1.2 DSD対応
 * HDMI 1.3 1440p対応
-* HDMI 1.4 2160p/30Hz、3D対応
+* HDMI 1.4 2160p/30Hz、ARC、3D対応
 * HDMI 2.0 2160p/60Hz対応
 * HDMI 2.0a HDR対応
 * HDMI 2.0b HLG対応
 * HDMI 2.1 4320p/60Hz、動的HDR対応
+
+## 対応表
+
+* HDMI 1.0 = スタンダード
+* HDMI 1.3 = ハイスピード
+* HDMI 2.0 = プレミアムハイスピード
 
 ## 著作権保護技術
 
